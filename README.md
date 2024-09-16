@@ -1,1 +1,2 @@
-# Lab1SegComp
+Fernando Elias Rodriguez cortez
+SMSS116023
